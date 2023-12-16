@@ -1,0 +1,72 @@
+.row{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+
+}
+
+.w-50{
+    width: 80%;
+}
+
+.mt{
+    margin-top: 15px;
+}
+.mt-10{
+    margin-top: 7px;
+    margin-left: -20px;
+}
+.sticky{
+    position: sticky;
+}
+.column{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.scroll{
+    overflow-y: scroll;
+}
+
+.col-50{
+    width: 50%;
+}
+
+.center{
+    display:flex;
+    justify-items: center;
+}
+
+.rojo{
+    background-color: white;
+}
+.mg-10{
+    margin: 10%;
+}
+
+.Indicador{
+    width: 120px;
+    height: 40px;
+
+   
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+
+}
+.pl-50{
+    padding-left: 50px;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.divisor{
+    justify-content: center;
+    width: 100%;
+    background-color: lightgray;
+    height: 2px;
+}
+.mgNegativo-10{
+    margin-left: -15px;
+}
