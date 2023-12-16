@@ -53,10 +53,10 @@ module.exports = {
       name: "mf_panel", // Modificar
       filename: "remoteEntry.js",
       exposes: {
-        "./Creacion": "./src/pages/Creacion.js",
-        "./EnReunion": "./src/pages/EnReunion.js",
-        "./PostReunion": "./src/pages/PostReunion.js",
-        "./PreReunion": "./src/pages/PreReunion.js",
+        "./Creacion": "./src/pages/Creacion",
+        "./EnReunion": "./src/pages/EnReunion",
+        "./PostReunion": "./src/pages/PostReunion",
+        "./PreReunion": "./src/pages/PreReunion",
       },
       shared: {
         ...dependencies,
