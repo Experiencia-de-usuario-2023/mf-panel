@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
-import CicloLayout4 from '../design-system/lifecycle/post-reunion/cicloLayout4';
+import CicloLayout4 from "../design-system/lifecycle/post-reunion/cicloLayout4";
 const PostReunion = () => {
   return (
     <div>
-      <CicloLayout4/>
+      <CicloLayout4 />
     </div>
   );
 };

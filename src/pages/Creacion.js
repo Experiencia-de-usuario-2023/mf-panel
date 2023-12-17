@@ -1,13 +1,12 @@
-import React from 'react';
+import React from "react";
 
-
-import CicloLayout from '../design-system/lifecycle/creacion/cicloLayout';
-const creacion = () => {
+import CicloLayout from "../design-system/lifecycle/creacion/cicloLayout";
+const Creacion = () => {
   return (
     <div>
-      <CicloLayout/>
+      <CicloLayout />
     </div>
   );
 };
 
-export default creacion;
+export default Creacion;

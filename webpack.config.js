@@ -57,6 +57,7 @@ module.exports = {
         "./EnReunion": "./src/pages/EnReunion",
         "./PostReunion": "./src/pages/PostReunion",
         "./PreReunion": "./src/pages/PreReunion",
+        "./Panel": "./src/pages/Panel",
       },
       shared: {
         ...dependencies,
